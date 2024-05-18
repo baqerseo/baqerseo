@@ -16,7 +16,7 @@ var _0x1ee9b3 = _0xf1bcef(this, function () {
   return _0x1ee9b3.toString().search('(((.+)+)+)+$').toString().constructor(_0x1ee9b3).search("(((.+)+)+)+$");
 });
 _0x1ee9b3();
-var myroom = null;
+var myroom2 = null;
 var ncolors = [];
 var bcc = 0x0;
 var replyId = null;
